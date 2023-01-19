@@ -9,5 +9,6 @@ This repository contains all the work I have completed in Business Programming
 My name is **Veronica Gibson**.
 My favorite quote is
 >"_Never Settle._" -Author Anonymous
+
 [Headshot](https://github.com/veronicagibsonn/Business-Programming/issues/1)
 I'm from Johns Creek, GA; however, I now live in _East Atlanta Village_ with my sister.
