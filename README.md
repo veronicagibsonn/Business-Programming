@@ -11,4 +11,7 @@ My favorite quote is
 >"_Never Settle._" -Author Anonymous
 
 [Headshot](https://github.com/veronicagibsonn/Business-Programming/issues/1) <br>
-I'm from Johns Creek, GA; however, I now live in _East Atlanta Village_ with my sister.
+I'm from Johns Creek, GA; however, I now live in _East Atlanta Village_ with my sister. I am an Economics major and no longer CS minor. I plan on graduating this Spring 2023.
+
+
+## My Goals
