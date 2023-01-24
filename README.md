@@ -25,18 +25,19 @@ Three years from now, I see myself getting my Masters from Stockholm School of E
 ## My Journey
 ```Mermaid
 journey
-	title Three Year Plan
-	section 2023
-      Graduate from Georgia Tech: 5: Me
-      Practice cooking: 5: Me
-      Get Software Engineering Offer Letter: 4: Me
-    section 2024
-      Subscribe for Wall Street Journal: 3: Me
-      Get promoted to Senior Engineer: 3: Me
-      Join Atlanta tennis team: 3: Me
-      Get Pure Barre Membership: 3: Me
-      Study for GRE and apply for SSE: 3: Me
-    section 2025
-      Look for apartment in Stockholm: 3: Me
-      Study: 3: Me
-      Network with professors and entrepreneurs: 3: Me
+title Three Year Plan
+section 2023
+	Graduate from Georgia Tech: 5: Me
+	Practice cooking: 5: Me
+	Get Software Engineering Offer Letter: 4: Me
+section 2024
+	Subscribe for Wall Street Journal: 3: Me
+	Get promoted to Senior Engineer: 3: Me
+	Join Atlanta tennis team: 3: Me
+	Get Pure Barre Membership: 3: Me
+	Study for GRE and apply for SSE: 3: Me
+section 2025
+	Look for apartment in Stockholm: 3: Me
+	Study: 3: Me
+	Network with professors and entrepreneurs: 3: Me
+```
