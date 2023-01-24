@@ -23,7 +23,7 @@ Three years from now, I see myself getting my Masters from Stockholm School of E
 - Entrepreneur (Efficient manufacturing company in US for designers who order small batches)
 
 ## My Journey
-```Mermaid
+```mermaid
 journey
 title Three Year Plan
 section 2023
